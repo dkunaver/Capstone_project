@@ -1,0 +1,9 @@
+# Capstone Project
+#This is the workbook for the project on location data analysis for the capstone project.
+
+# First steps
+# The first steps is to set the environment by downloading the python libraries for doing analysis. Secondly we will print a friendly greeting :-).
+
+import pandas as pd
+import numpy as np
+print('Hello Capstone Project Course!')
